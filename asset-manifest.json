@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/irzakhanov/products-table.git/static/css/main.80c378ff.chunk.css",
+    "main.js": "/irzakhanov/products-table.git/static/js/main.9cf36c98.chunk.js",
+    "main.js.map": "/irzakhanov/products-table.git/static/js/main.9cf36c98.chunk.js.map",
+    "runtime-main.js": "/irzakhanov/products-table.git/static/js/runtime-main.02d9f3b4.js",
+    "runtime-main.js.map": "/irzakhanov/products-table.git/static/js/runtime-main.02d9f3b4.js.map",
+    "static/js/2.1e1e2417.chunk.js": "/irzakhanov/products-table.git/static/js/2.1e1e2417.chunk.js",
+    "static/js/2.1e1e2417.chunk.js.map": "/irzakhanov/products-table.git/static/js/2.1e1e2417.chunk.js.map",
+    "index.html": "/irzakhanov/products-table.git/index.html",
+    "static/css/main.80c378ff.chunk.css.map": "/irzakhanov/products-table.git/static/css/main.80c378ff.chunk.css.map",
+    "static/js/2.1e1e2417.chunk.js.LICENSE.txt": "/irzakhanov/products-table.git/static/js/2.1e1e2417.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d9f3b4.js",
+    "static/js/2.1e1e2417.chunk.js",
+    "static/css/main.80c378ff.chunk.css",
+    "static/js/main.9cf36c98.chunk.js"
+  ]
+}
