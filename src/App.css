@@ -1,0 +1,83 @@
+table {
+    border-collapse: collapse;
+    
+}
+
+tr, td, th {
+    border: 1px solid #000;
+}
+
+th h1 {
+    font-size: 18px;
+    padding: 10px;
+}
+
+td {
+    width: 200px;
+    padding: 8px 15px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    background-color: rgb(36, 36, 36);
+    z-index: 11;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 25px;
+}
+
+.footer div {
+    margin-right: 130px;
+    color: rgb(255, 255, 255);
+}
+
+.footer span {
+    font-weight: bold;
+}
+
+.footer button {
+    background-color: rgb(9, 97, 185);
+    cursor: pointer;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    transition: .3s;
+    text-transform: uppercase;
+    color: white;
+}
+
+.footer button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 1px 3px 0px rgba(255, 255, 255, .5);
+}
+
+.container {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+.sidebar {
+    width: 300px;
+    background-color: darkslategrey;
+    margin-right: 20px;
+    padding: 15px;
+}
+
+.sidebar li {
+    margin-bottom: 20px;
+    
+}
+
+.sidebar a {
+    color: floralwhite;
+    transition: .2s;
+}
+
+.sidebar a:hover {
+    color: lightslategray;
+}
